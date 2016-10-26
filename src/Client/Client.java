@@ -5,8 +5,6 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.google.gson.JsonSyntaxException;
 import java.net.Socket;
-import java.net.ServerSocket;
-import java.net.InetAddress;
 import java.io.OutputStream;
 import java.io.InputStream;
 
